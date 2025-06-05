@@ -9,7 +9,6 @@
 > 💻 IT Student | Aspiring Software Engineer | Passionate About Real-World Tech Solutions
 
 📍 Centurion, Gauteng, South Africa  
-📧 tarina.snyman@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tarina-snyman-60b824299)  
 🌐 Portfolio: *Coming Soon*  
 ---
@@ -90,6 +89,7 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 💬 *Let’s connect and build something impactful together!*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarina-snyman&style=flat-square) 
+
 
 
 <!--
