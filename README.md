@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tarina Snyman
 <!-- Avatar at top right -->
-<p align="right">
-  <img src="https://github.com/TarinaSnyman/TarinaSnyman/blob/main/assets/github_avatar.png" alt="Tarina Avatar" width="160" style="border-radius: 20px;">
+<p align="center">
+  <img src="https://github.com/TarinaSnyman/TarinaSnyman/blob/main/assets/github_avatar.png" alt="Tarina Avatar" width="100%" style="border-radius: 20px;">
 </p>
 
 
