@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Tarina Snyman
+<!-- Avatar at top right -->
+<p align="right">
+  <img src="https://github.com/TarinaSnyman/TarinaSnyman/blob/main/assets/github_pic.png" alt="Tarina Avatar" width="160" style="border-radius: 20px;">
+</p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarina-snyman&style=flat-square)
+
 
 > 💻 IT Student | Aspiring Software Engineer | Passionate About Real-World Tech Solutions
 
@@ -14,7 +18,7 @@
 
 I'm a detail-oriented and driven IT student currently working toward a **Bachelor of Computing**. With a strong academic foundation and a growing portfolio of full-stack projects, I thrive in collaborative environments where I can apply my skills to real-world problems.
 
-- 🌱 Passionate about **Software Development, AI, Databases**, and **Emerging Tech**
+- 🌱 Passionate about **Software Development, AI**, and **Emerging Tech**
 
 ---
 
@@ -32,15 +36,14 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 ---
 ## 📊 GitHub Stats
 
-![Tarina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarina-snyman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarinaSnyman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarina-snyman&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarinaSnyman&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏗️ Projects
--Coming soon 
-
+🚧 *Coming soon – currently working on full-stack projects and portfolio site.*
 ---
 
 ## 📜 Certifications & Courses
@@ -92,7 +95,7 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 
 
 💬 *Let’s connect and build something impactful together!*
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarina-snyman&style=flat-square) 
 
 
 <!--
