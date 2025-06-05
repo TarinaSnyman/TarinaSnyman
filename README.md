@@ -88,6 +88,7 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 
 
 💬 *Let’s connect and build something impactful together!*
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tarina-snyman&style=flat-square) 
 
 
