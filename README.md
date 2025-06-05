@@ -29,12 +29,12 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 ![Node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 ## 📊 GitHub Stats
+-NOTE: Top languages do not indicate my skill level. It's only a metric that shows the languages I have the most code in on github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarinaSnyman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -56,9 +56,10 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 ## 🧩 Soft Skills
 
 - Strong written and verbal communicator  
-- Teamwork & leadership in Agile environments  
-- Calm and accurate under pressure (e.g., scribing at national events)  
-- Highly organized and eager to learn new technologies  
+- Teamwork & leadership
+- Problem-solving & analytical thinking  
+- Focused, organized, and calm under pressure  
+- Self-driven & adaptable to new tech
 
 ---
 
@@ -74,15 +75,7 @@ I'm a detail-oriented and driven IT student currently working toward a **Bachelo
 
 ---
 
-## 🧠 Soft Skills
 
-- Strong communicator & peer mentor  
-- Problem-solving & analytical thinking  
-- Team player in Agile settings  
-- Focused, organized, and calm under pressure  
-- Self-driven & adaptable to new tech
-
----
 
 ## 🚀 Goals for 2025
 
