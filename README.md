@@ -10,7 +10,7 @@
 
 📍 Centurion, Gauteng, South Africa  
 🔗 [LinkedIn](https://www.linkedin.com/in/tarina-snyman-60b824299)  
-🌐 Portfolio: *Coming Soon*  
+🌐 [Portfolio](https://tarinasnyman.github.io/PortfolioWebSite/)  
 ---
 
 ## 🧠 About Me
